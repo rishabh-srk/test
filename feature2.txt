@@ -1,3 +1,1 @@
 this is feature 2
-
-undo publish commit using git revert
